@@ -1,6 +1,6 @@
 # XML to CSV Converter
 
-This repository contains a Python project that transforms XML data into CSV format. It includes a Docker setup for containerized execution and configurations to control input/output paths and other parameters.
+This repository contains a Python project that transforms XML data into CSV format.
 
 ## Table of Contents
 
