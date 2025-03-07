@@ -124,7 +124,7 @@ This repository contains a Python project that transforms XML data into CSV form
 
 # Requirements to run [Either one will do]
 
-- Python 3.9 or newer (if running locally)
+- Python 3.9 or newer (if running locally), make sure you install everything in the requirements.txt.
 - Docker & Docker Compose (if running inside a container)
 
 # Configurations
@@ -139,7 +139,7 @@ This repository contains a Python project that transforms XML data into CSV form
    ```bash
    git clone https://github.com/AshCena/xml_to_csv.git
    cd xml_to_csv
-2. **Run the main.py**
+2. **Run the main.py** (make sure you install everything in the requirements.txt before running)
 
 # Running the Code  with Docker
 
