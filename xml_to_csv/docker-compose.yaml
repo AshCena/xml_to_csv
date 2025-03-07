@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  john_deer_xml2csv:
+    build: .
+    container_name: john_deer_xml_to_csv_app
+    volumes:
+      - ./output:/johndeer/output
+    entrypoint: [ "sh", "-c", "python main.py" ]

@@ -1,0 +1,8 @@
+processor:
+  reader:
+    type: xml
+    path: "./input/omdxe11330.xml"
+  writer:
+    type: csv
+    path: "./output/omdxe11330.csv"
+
